@@ -3,7 +3,7 @@ import "./global.css";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       Hello React
     </div>
   )
